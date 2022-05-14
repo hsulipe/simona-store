@@ -15,3 +15,5 @@ ou usando npm:
     npm install
     npm run dev
 ```
+
+acessar a pagina pelo browser `http://localhost:3000`
